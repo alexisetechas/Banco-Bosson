@@ -14,4 +14,4 @@ Atualmente, o Banco Bosson oferece as seguintes ferramentas:
 * **Conversor de Moedas:** Com cotações atualizadas para as principais moedas do mercado.
 * **Visualização de Dados de Mercado:** Geração de gráficos para o Ibovespa, principais criptomoedas e outros indicadores financeiros relevantes.
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/alexisetechas/Banco-Bosson/blob/main/screen.png))
+![Interface do Banco](Banco-Bosson/blob/main/screen.png)
